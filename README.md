@@ -1,2 +1,4 @@
-# VPN-Install
-System Administration Lab 3 - VPN Installation
+# VPN-Install | Spencer Stith
+
+Steps done:
+1. 
