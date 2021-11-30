@@ -39,6 +39,7 @@ mkdir -p ~/wireguard/config/
 nano ~/wireguard/docker-compose.yml
 ```
 2. Paste this into the newly created `docker-compose.yml`:
+
 ```
 version: '3.8'
 services:
